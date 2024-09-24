@@ -1,0 +1,7 @@
+dataset,file,query,ref
+default,datasets/alignment-tables/Tiger_to_Oge1.bed,Tiger,Oge1
+default,datasets/alignment-tables/Lion_to_Oge1.bed,Lion,Oge1
+default,datasets/alignment-tables/Fca126_to_Oge1.bed,Fca126,Oge1
+default,datasets/alignment-tables/Pbe53_to_Oge1.bed,Pbe53,Oge1
+
+
